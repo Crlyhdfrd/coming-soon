@@ -1,0 +1,13 @@
+body {
+background-color: rgb(218, 194, 218);
+}
+
+.topheader {
+  text-align: center;
+  background-color: thistle;
+}
+
+img {
+  width: max-content;
+
+}
